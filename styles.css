@@ -1,14 +1,42 @@
 body {
-  margin: 0;
+  margin: 0 0.5em;
   padding: 0;
   font-family: "Montserrat", sans-serif;
+  color: #242c3d;
+  /* background-color: #ededed;
+  background-color: #fcefea;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 233, 224, 1) 100%
+  ); */
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    183deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(237, 237, 237, 1) 90%
+  );
   font-size: 1rem;
+  box-sizing: border-box;
+  text-align: center;
 }
 
 h1 {
   font-size: 3rem;
   margin: 0;
   margin-right: 0.5em;
+  position: relative;
+}
+
+h1:before {
+  position: absolute;
+  content: "";
+  height: 0.2em;
+  width: 110%;
+  bottom: 0.1em;
+  z-index: -1;
+  background: #e88a62;
 }
 
 nav {
@@ -16,14 +44,15 @@ nav {
   justify-content: space-between;
   align-items: flex-start;
   padding: 0 1em;
-  margin: 0.5em 0 2em;
+  margin: 1.5em 0 3em;
 }
 
 .inventory-container {
   display: grid;
   max-width: 1200px;
-  margin: 0 auto;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  margin: 0 auto 1.5em;
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+  grid-gap: 1.5em;
 }
 
 .item-card {
@@ -32,15 +61,61 @@ nav {
   border: 1px solid #c7c7c7;
   align-items: center;
   padding: 1em;
+  padding-bottom: 0;
+  background-color: #fff;
+  transition: all 0.3s;
+}
+
+.item-card:hover {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 
 .item-img {
   display: block;
   max-width: 100%;
+  height: 300px;
   object-fit: cover;
 }
 
-.item-info,
+.item-link {
+  transform: scale(1);
+  transition: transform 250ms;
+}
+.item-link:hover {
+  transform: scale(1.025);
+}
+
+.item-dimensions {
+  display: grid;
+  grid-template: 1fr 1fr / 1fr 1fr 1fr;
+  text-align: center;
+  font-size: 0.8rem;
+  border: 1px solid #efe8e8;
+  margin-bottom: 1em;
+}
+
+.item-dimensions span {
+  padding: 0.3em;
+  border: 1px solid #efe8e8;
+}
+
 .item-price {
   margin-bottom: 0;
+}
+
+.item-price {
+  width: 100%;
+  padding: 2em 1em;
+  background-color: #e88a62;
+  border: 1px solid #e88a62;
+  text-align: center;
+  font-weight: 600;
+  margin-top: auto;
+}
+
+.old-price {
+  font-size: 0.8rem;
+  font-weight: 400;
+  text-decoration: line-through;
+  margin-left: 0.25em;
 }
