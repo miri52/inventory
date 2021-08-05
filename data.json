@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "01",
+      "name": "IKEA Fjällbo Estante",
+      "link": "https://www.ikea.com/pt/pt/p/fjaellbo-estante-preto-70342199/",
+      "img": "https://www.ikea.com/pt/pt/images/products/fjaellbo-estante-preto__0473389_pe614540_s5.jpg?f=xxs",
+      "info": "Comprado há 1 ano.",
+      "dimensions": {
+        "lar": 51,
+        "prof": 36,
+        "alt": 136
+      },
+      "price": {
+        "original": 59,
+        "new": 25
+      }
+    },
+    {
+      "id": "02",
+      "name": "IKEA Nikkeby Suporte p/cabides",
+      "link": "https://www.ikea.com/pt/pt/p/nikkeby-suporte-p-cabides-verde-acinzentado-50447692/",
+      "img": "https://m.media-amazon.com/images/I/31C9o2dJmjL._AC_.jpg",
+      "info": "Comprado há 1 ano. Igual ao Nikkeby no link mas mais largo.",
+      "dimensions": {
+        "lar": 81,
+        "prof": 40,
+        "alt": 170
+      },
+      "price": {
+        "original": 49,
+        "new": 20
+      }
+    }
+  ]
+}
