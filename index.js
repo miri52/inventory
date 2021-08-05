@@ -6,7 +6,7 @@ function renderItems(data) {
   let html = "";
   data.items.forEach((item) => {
     html += `
-        <div class="item-card">
+      <div class="item-card">
         <a
           class="item-link"
           href=${item.link}
@@ -18,7 +18,6 @@ function renderItems(data) {
             src=${item.img}
           />
         </a>
-
         <h3>${item.name}</h3>
         <p class="item-info">${item.info}</p>
         <div class="item-dimensions">

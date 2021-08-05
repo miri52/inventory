@@ -13,7 +13,7 @@
       },
       "price": {
         "original": 59,
-        "new": 25
+        "new": 30
       }
     },
     {
@@ -29,7 +29,71 @@
       },
       "price": {
         "original": 49,
+        "new": 25
+      }
+    },
+    {
+      "id": "03",
+      "name": "IKEA LÖVBACKEN Mesa de apoio",
+      "link": "https://www.ikea.com/pt/pt/p/loevbacken-mesa-de-apoio-castanho-80270125/",
+      "img": "https://www.ikea.com/pt/pt/images/products/loevbacken-mesa-de-apoio-castanho__0731794_pe738454_s5.jpg?f=xxs",
+      "info": "Comprado há 3 anos. Some scratches.",
+      "dimensions": {
+        "lar": 39,
+        "prof": 77,
+        "alt": 51
+      },
+      "price": {
+        "original": 49,
+        "new": 10
+      }
+    },
+    {
+      "id": "04",
+      "name": "IKEA AGEN cadeira rota/bambu",
+      "link": "https://www.ikea.com/pt/pt/p/agen-cadeira-rota-bambu-50058376/",
+      "img": "https://www.ikea.com/pt/pt/images/products/agen-cadeira-rota-bambu__31428_pe120743_s5.jpg?f=xxs",
+      "info": "2 unidades, com almofadas. Comprado há 3 anos.",
+      "dimensions": {
+        "lar": 58,
+        "prof": 56,
+        "alt": 79
+      },
+      "price": {
+        "original": 80,
         "new": 20
+      }
+    },
+    {
+      "id": "05",
+      "name": "IKEA BRUSALI Móvel TV",
+      "link": "https://www.ikea.com/pt/pt/p/brusali-movel-tv-castanho-70439771/",
+      "img": "https://www.ikea.com/pt/pt/images/products/brusali-movel-tv-castanho__0351584_pe538332_s5.jpg?f=xxs",
+      "info": "Comprado há 5 anos. Muito bom estado.",
+      "dimensions": {
+        "lar": 120,
+        "prof": 36,
+        "alt": 62
+      },
+      "price": {
+        "original": 65,
+        "new": 20
+      }
+    },
+    {
+      "id": "06",
+      "name": "IKEA BJURSTA Mesa de refeição extensível",
+      "link": "https://www.ikea.com/pt/pt/p/bjursta-mesa-extensivel-chapa-de-carvalho-80116266/",
+      "img": "https://www.ikea.com/pt/pt/images/products/bjursta-mesa-extensivel-chapa-de-carvalho__0122342_pe278632_s5.jpg?f=xxs",
+      "info": "Comprado há 5 anos. Muito bom estado.",
+      "dimensions": {
+        "lar": "140-220",
+        "prof": 84,
+        "alt": 74
+      },
+      "price": {
+        "original": 169,
+        "new": 50
       }
     }
   ]
