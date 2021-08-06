@@ -195,7 +195,7 @@
     {
       "id": "13",
       "name": "Decathlon tapete de chão de ginástica e pilates NYAMBA",
-      "link": "https://www.decathlon.pt/p/tapete-de-chao-de-ginastica-e-pilates-confort-180-cm-x-63-cm-x-15-mm-cinzento/_/R-p-305063?mc=8527051&c=P%C3%9ARPURA",
+      "link": "/images/tapete-nyamba.png",
       "img": "https://contents.mediadecathlon.com/p1604980/k$e49e206993b6d321549c3f4ab39a5ab3/sq/TAPETE+DE+CH+O+DE+GIN+STICA+E+PILATES+CONFORT+180+cm+x+63+cm+x+15+mm+BORD.webp?f=500x500",
       "info": "Comprado há 1 ano. Muito fofo, espessura de 15mm.",
       "dimensions": {
@@ -222,6 +222,38 @@
       "price": {
         "original": "1 unidade: 3 ",
         "new": "1 unidade: 1 "
+      }
+    },
+    {
+      "id": "15",
+      "name": "IKEA sapateira MACKAPÄR",
+      "link": "https://www.ikea.com/pt/pt/p/mackapaer-sapateira-branco-20336233/",
+      "img": "https://www.ikea.com/pt/pt/images/products/mackapaer-sapateira-branco__0710716_pe727737_s5.jpg?f=m",
+      "info": "Comprado há 1 ano. Bom estado.",
+      "dimensions": {
+        "lar": 78,
+        "prof": 32,
+        "alt": 40
+      },
+      "price": {
+        "original": 19,
+        "new": 5
+      }
+    },
+    {
+      "id": "16",
+      "name": "IKEA cabide p/porta ENUDDEN",
+      "link": "https://www.ikea.com/pt/pt/p/enudden-cabide-p-porta-branco-60251665/",
+      "img": "https://www.ikea.com/pt/pt/images/products/enudden-cabide-p-porta-branco__0710492_pe727593_s5.jpg?f=m",
+      "info": "Comprado há 1 ano. Excelente estado.",
+      "dimensions": {
+        "lar": 35,
+        "prof": 4,
+        "alt": 13
+      },
+      "price": {
+        "original": 3.5,
+        "new": 1
       }
     }
   ]

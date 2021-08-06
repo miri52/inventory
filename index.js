@@ -14,7 +14,7 @@ function renderItems(data) {
         >
           <img
             class="item-img"
-            alt=${item.name}
+            alt="${item.name}"
             src=${item.img}
           />
         </a>
