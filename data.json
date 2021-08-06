@@ -95,6 +95,134 @@
         "original": 169,
         "new": 50
       }
+    },
+    {
+      "id": "07",
+      "name": "Beliani Secretária Deora",
+      "link": "https://www.beliani.pt/mesa-de-escritorio-marrom-clara-100-x-48-cm-deora.html?gclid=Cj0KCQjwu7OIBhCsARIsALxCUaPQDu2XMU5buZa-jmj8PXwJC7F1aaxbo8rHbUHvfF19jYDYYsHZJWkaAke6EALw_wcB",
+      "img": "https://pictureserver.net/images/pic/f8/ec/undef_src_sa_picid_710502_x_1800_type_whitesh_image.jpg?ver=19",
+      "info": "Comprado há 2 anos. Excelente estado, usado como consola na sala.",
+      "dimensions": {
+        "lar": 100,
+        "prof": 48,
+        "alt": 76
+      },
+      "price": {
+        "original": 139,
+        "new": 50
+      }
+    },
+    {
+      "id": "08",
+      "name": "IKEA MALM cama com 4 gavetões, 200x160 cm",
+      "link": "https://www.ikea.com/pt/pt/p/malm-estrutura-cama-c-4-gavetoes-chapa-de-carvalho-c-velatura-branca-loenset-s79175073/",
+      "img": "https://www.ikea.com/pt/pt/images/products/malm-estrutura-cama-c-4-gavetoes-chapa-de-carvalho-c-velatura-branca-loenset__0638624_pe699041_s5.jpg?f=xxs",
+      "info": "Comprado há 6 anos. Estrutura tem uma cor um poco mais escura. Inclui um colchão de espuma, IKEA - MORGEDAL. ",
+      "dimensions": {
+        "lar": 209,
+        "prof": 176,
+        "alt": 100
+      },
+      "price": {
+        "original": "Cama: 349 €, colchão 279 ",
+        "new": "Tudo: 100"
+      }
+    },
+    {
+      "id": "09",
+      "name": "IKEA carrinho NISSAFORS",
+      "link": "https://www.ikea.com/pt/pt/p/nissafors-carrinho-preto-20399777/",
+      "img": "https://www.ikea.com/pt/pt/images/products/nissafors-carrinho-preto__0672522_pe716744_s5.jpg?f=xxs",
+      "info": "Comprado há 1 ano. Muito bom estado.",
+      "dimensions": {
+        "lar": 50.5,
+        "prof": 30,
+        "alt": 83
+      },
+      "price": {
+        "original": 25,
+        "new": 10
+      }
+    },
+    {
+      "id": "10",
+      "name": "IKEA tapete HÖJERUP, 120x180 cm",
+      "link": "https://www.ikea.com/pt/pt/p/hoejerup-tapete-pelo-comprido-castanho-acinzentado-10270162/",
+      "img": "https://www.ikea.com/pt/pt/images/products/hoejerup-tapete-pelo-comprido-castanho-acinzentado__0891746_pe575093_s5.jpg?f=xxs",
+      "info": "Comprado há 6 anos. Espessura: 8mm. Usado.",
+      "dimensions": {
+        "lar": 120,
+        "prof": 180,
+        "alt": 0
+      },
+      "price": {
+        "original": 19,
+        "new": 0
+      }
+    },
+    {
+      "id": "11",
+      "name": "IKEA quadro p/mensagens KVICKSUND",
+      "link": "https://www.ikea.com/nl/en/p/kvicksund-memo-board-light-pink-40466271/",
+      "img": "https://www.ikea.com/nl/en/images/products/kvicksund-memo-board-light-pink__0807016_pe770206_s5.jpg?f=xxs",
+      "info": "Comprado há 1 ano. Muito bom estado.",
+      "dimensions": {
+        "lar": 39,
+        "prof": 4.3,
+        "alt": 86
+      },
+      "price": {
+        "original": 12,
+        "new": 0
+      }
+    },
+    {
+      "id": "12",
+      "name": "IKEA caixote com tampa SORTERA",
+      "link": "https://www.ikea.com/pt/pt/p/sortera-caixote-c-tampa-branco-70255899/",
+      "img": "https://www.ikea.com/pt/pt/images/products/sortera-caixote-c-tampa-branco__0711187_pe728056_s5.jpg?f=xxs",
+      "info": "2 unidades. Comprados há 1 ano. Usados como caixotes de lixo para plástico e papel.",
+      "dimensions": {
+        "lar": 41,
+        "prof": 55,
+        "alt": 45
+      },
+      "price": {
+        "original": 20,
+        "new": 0
+      }
+    },
+    {
+      "id": "13",
+      "name": "Decathlon tapete de chão de ginástica e pilates NYAMBA",
+      "link": "https://www.decathlon.pt/p/tapete-de-chao-de-ginastica-e-pilates-confort-180-cm-x-63-cm-x-15-mm-cinzento/_/R-p-305063?mc=8527051&c=P%C3%9ARPURA",
+      "img": "https://contents.mediadecathlon.com/p1604980/k$e49e206993b6d321549c3f4ab39a5ab3/sq/TAPETE+DE+CH+O+DE+GIN+STICA+E+PILATES+CONFORT+180+cm+x+63+cm+x+15+mm+BORD.webp?f=500x500",
+      "info": "Comprado há 1 ano. Muito fofo, espessura de 15mm.",
+      "dimensions": {
+        "lar": 180,
+        "prof": 63,
+        "alt": 0.15
+      },
+      "price": {
+        "original": 30,
+        "new": 10
+      }
+    },
+    {
+      "id": "14",
+      "name": "IKEA suporte p/auscultadores/tablet/telemóvel",
+      "link": "https://www.ikea.com/pt/pt/p/moejlighet-suporte-p-auscultadores-tablet-preto-00434277/",
+      "img": "https://www.ikea.com/pt/pt/images/products/moejlighet-suporte-p-auscultadores-tablet-preto__0634709_pe696689_s5.jpg?f=xxs",
+      "info": "2 unidades. Comprados há 1 ano.",
+      "dimensions": {
+        "lar": 8,
+        "prof": 15,
+        "alt": 26
+      },
+      "price": {
+        "original": "1 unidade: 3 ",
+        "new": "1 unidade: 1 "
+      }
     }
   ]
 }
