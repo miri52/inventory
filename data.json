@@ -37,7 +37,7 @@
       "name": "IKEA LÖVBACKEN Mesa de apoio",
       "link": "https://www.ikea.com/pt/pt/p/loevbacken-mesa-de-apoio-castanho-80270125/",
       "img": "https://www.ikea.com/pt/pt/images/products/loevbacken-mesa-de-apoio-castanho__0731794_pe738454_s5.jpg?f=xxs",
-      "info": "Comprado há 3 anos. Some scratches.",
+      "info": "Comprado há 3 anos. Alguns riscos.",
       "dimensions": {
         "lar": 39,
         "prof": 77,
@@ -60,8 +60,8 @@
         "alt": 79
       },
       "price": {
-        "original": 80,
-        "new": 20
+        "original": "1 unidade: 35 ",
+        "new": "1 unidade: 10 "
       }
     },
     {
@@ -117,15 +117,15 @@
       "name": "IKEA MALM cama com 4 gavetões, 200x160 cm",
       "link": "https://www.ikea.com/pt/pt/p/malm-estrutura-cama-c-4-gavetoes-chapa-de-carvalho-c-velatura-branca-loenset-s79175073/",
       "img": "https://www.ikea.com/pt/pt/images/products/malm-estrutura-cama-c-4-gavetoes-chapa-de-carvalho-c-velatura-branca-loenset__0638624_pe699041_s5.jpg?f=xxs",
-      "info": "Comprado há 6 anos. Estrutura tem uma cor um poco mais escura. Inclui um colchão de espuma, IKEA - MORGEDAL. ",
+      "info": "Comprado há 6 anos. Estrutura tem uma cor um pouco mais escura que os gavetões.",
       "dimensions": {
         "lar": 209,
         "prof": 176,
         "alt": 100
       },
       "price": {
-        "original": "Cama: 349 €, colchão 279 ",
-        "new": "Tudo: 100"
+        "original": 349,
+        "new": 80
       }
     },
     {
@@ -149,7 +149,7 @@
       "name": "IKEA tapete HÖJERUP, 120x180 cm",
       "link": "https://www.ikea.com/pt/pt/p/hoejerup-tapete-pelo-comprido-castanho-acinzentado-10270162/",
       "img": "https://www.ikea.com/pt/pt/images/products/hoejerup-tapete-pelo-comprido-castanho-acinzentado__0891746_pe575093_s5.jpg?f=xxs",
-      "info": "Comprado há 6 anos. Espessura: 8mm. Usado.",
+      "info": "Comprado há 6 anos. Espessura: 8mm.",
       "dimensions": {
         "lar": 120,
         "prof": 180,
@@ -195,8 +195,8 @@
     {
       "id": "13",
       "name": "Decathlon tapete de chão de ginástica e pilates NYAMBA",
-      "link": "/images/tapete-nyamba.png",
-      "img": "https://contents.mediadecathlon.com/p1604980/k$e49e206993b6d321549c3f4ab39a5ab3/sq/TAPETE+DE+CH+O+DE+GIN+STICA+E+PILATES+CONFORT+180+cm+x+63+cm+x+15+mm+BORD.webp?f=500x500",
+      "link": "https://www.decathlon.pt/p/tapete-de-chao-de-ginastica-e-pilates-confort-180-cm-x-63-cm-x-15-mm-cinzento/_/R-p-305063?mc=8527051&c=P%C3%9ARPURA",
+      "img": "images/tapete-nyamba.png",
       "info": "Comprado há 1 ano. Muito fofo, espessura de 15mm.",
       "dimensions": {
         "lar": 180,
@@ -229,7 +229,7 @@
       "name": "IKEA sapateira MACKAPÄR",
       "link": "https://www.ikea.com/pt/pt/p/mackapaer-sapateira-branco-20336233/",
       "img": "https://www.ikea.com/pt/pt/images/products/mackapaer-sapateira-branco__0710716_pe727737_s5.jpg?f=m",
-      "info": "Comprado há 1 ano. Bom estado.",
+      "info": "Comprado há 1 ano. Muito bom estado.",
       "dimensions": {
         "lar": 78,
         "prof": 32,

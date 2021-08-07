@@ -42,17 +42,12 @@ h1:before {
 nav {
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: flex-start;
+  text-align: left;
   padding: 0 1em;
   margin: 1.5em 0;
-}
-
-@media (min-width: 650px) {
-  nav {
-    flex-direction: row;
-    margin: 1.5em 0 3em;
-  }
 }
 
 .inventory-container {
