@@ -14,7 +14,8 @@
       "price": {
         "original": 59,
         "new": 30
-      }
+      },
+      "reserved": false
     },
     {
       "id": "02",
@@ -30,7 +31,8 @@
       "price": {
         "original": 49,
         "new": 25
-      }
+      },
+      "reserved": false
     },
     {
       "id": "03",
@@ -46,7 +48,8 @@
       "price": {
         "original": 49,
         "new": 10
-      }
+      },
+      "reserved": false
     },
     {
       "id": "04",
@@ -62,7 +65,8 @@
       "price": {
         "original": "1 unidade: 35 ",
         "new": "1 unidade: 10 "
-      }
+      },
+      "reserved": false
     },
     {
       "id": "05",
@@ -78,7 +82,8 @@
       "price": {
         "original": 65,
         "new": 20
-      }
+      },
+      "reserved": false
     },
     {
       "id": "06",
@@ -94,7 +99,8 @@
       "price": {
         "original": 169,
         "new": 50
-      }
+      },
+      "reserved": false
     },
     {
       "id": "07",
@@ -110,7 +116,8 @@
       "price": {
         "original": 139,
         "new": 50
-      }
+      },
+      "reserved": false
     },
     {
       "id": "08",
@@ -126,7 +133,8 @@
       "price": {
         "original": 349,
         "new": 80
-      }
+      },
+      "reserved": false
     },
     {
       "id": "09",
@@ -142,7 +150,8 @@
       "price": {
         "original": 25,
         "new": 10
-      }
+      },
+      "reserved": false
     },
     {
       "id": "10",
@@ -158,7 +167,8 @@
       "price": {
         "original": 19,
         "new": 0
-      }
+      },
+      "reserved": false
     },
     {
       "id": "11",
@@ -174,7 +184,8 @@
       "price": {
         "original": 12,
         "new": 0
-      }
+      },
+      "reserved": false
     },
     {
       "id": "12",
@@ -190,7 +201,8 @@
       "price": {
         "original": 20,
         "new": 0
-      }
+      },
+      "reserved": false
     },
     {
       "id": "13",
@@ -206,7 +218,8 @@
       "price": {
         "original": 30,
         "new": 10
-      }
+      },
+      "reserved": false
     },
     {
       "id": "14",
@@ -222,7 +235,8 @@
       "price": {
         "original": "1 unidade: 3 ",
         "new": "1 unidade: 1 "
-      }
+      },
+      "reserved": true
     },
     {
       "id": "15",
@@ -238,7 +252,8 @@
       "price": {
         "original": 19,
         "new": 5
-      }
+      },
+      "reserved": false
     },
     {
       "id": "16",
@@ -254,7 +269,8 @@
       "price": {
         "original": 3.5,
         "new": 1
-      }
+      },
+      "reserved": false
     }
   ]
 }

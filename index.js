@@ -13,20 +13,29 @@ function renderItems(data) {
           target="_blank"
         >
           <img
-            class="item-img"
+            class="item-img ${item.reserved && "item-img-reserved"}"      
             alt="${item.name}"
             src=${item.img}
           />
         </a>
+        ${
+          item.reserved
+            ? '<img class="reserved-tag" src="/images/reservado.png" />'
+            : ""
+        }
         <h3>${item.name}</h3>
         <p class="item-info">${item.info}</p>
         <div class="item-dimensions">
-          <span>Lar</span><span>Prof</span><span>Alt</span> <span>${item.dimensions.lar} cm</span
-          ><span>${item.dimensions.prof} cm</span><span>${item.dimensions.alt} cm</span>
+          <span>Lar</span><span>Prof</span><span>Alt</span> <span>${
+            item.dimensions.lar
+          } cm</span
+          ><span>${item.dimensions.prof} cm</span><span>${
+      item.dimensions.alt
+    } cm</span>
         </div>
         <p class="item-price">
           ${item.price.new} €
-          <span class="old-price">${item.price.original} €</span>
+          <span class="old-price">${item.price.original} €</span> 
         </p>
       </div>
     `;
