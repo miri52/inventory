@@ -20,7 +20,7 @@ function renderItems(data) {
         </a>
         ${
           item.reserved
-            ? '<img class="reserved-tag" src="/images/reservado.png" />'
+            ? '<img class="reserved-tag" alt="reservado" src="images/reservado.png" />'
             : ""
         }
         <h3>${item.name}</h3>
@@ -42,7 +42,6 @@ function renderItems(data) {
   });
   inventoryContainer.innerHTML = html;
 }
-
 async function getItems() {
   try {
     const res = await fetch("data.json");
