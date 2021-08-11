@@ -151,7 +151,7 @@
         "original": 25,
         "new": 10
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "10",
@@ -270,7 +270,7 @@
         "original": 3.5,
         "new": 1
       },
-      "reserved": false
+      "reserved": true
     }
   ]
 }
