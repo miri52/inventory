@@ -271,6 +271,57 @@
         "new": 1
       },
       "reserved": true
+    },
+    {
+      "id": "17",
+      "name": "IKEA mesa de cabeceira",
+      "link": "#",
+      "img": "images/nightstand.jpeg",
+      "info": "Comprado há 6 anos. Tem wireless e USB charger.",
+      "dimensions": {
+        "lar": 35,
+        "prof": 37,
+        "alt": 56
+      },
+      "price": {
+        "original": 50,
+        "new": 5
+      },
+      "reserved": false
+    },
+    {
+      "id": "18",
+      "name": "Candeeiro de mesa",
+      "link": "#",
+      "img": "images/lamp.jpg",
+      "info": "Comprado há 6 anos.",
+      "dimensions": {
+        "lar": 24,
+        "prof": 14,
+        "alt": 38
+      },
+      "price": {
+        "original": 0,
+        "new": 0
+      },
+      "reserved": false
+    },
+    {
+      "id": "19",
+      "name": "Cadeira em aço",
+      "link": "#",
+      "img": "images/silver-chair.jpg",
+      "info": "Origem desconhecida",
+      "dimensions": {
+        "lar": 46,
+        "prof": 60,
+        "alt": 75
+      },
+      "price": {
+        "original": 0,
+        "new": 0
+      },
+      "reserved": false
     }
   ]
 }

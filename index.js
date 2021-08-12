@@ -5,10 +5,17 @@ const inventoryContainer = document.querySelector(".inventory-container");
 function renderItems(data) {
   let html = "";
   data.items.forEach((item) => {
+    let linkClass;
+    let originalPrice;
+    item.link === "#" ? (linkClass = "disabled") : (linkClass = "item-link");
+    item.price.original === 0
+      ? (originalPrice = "Ninguém sabe")
+      : (originalPrice = `${item.price.original} €`);
+
     html += `
       <div class="item-card">
         <a
-          class="item-link"
+          class=${linkClass}
           href=${item.link}
           target="_blank"
         >
@@ -35,7 +42,7 @@ function renderItems(data) {
         </div>
         <p class="item-price">
           ${item.price.new} €
-          <span class="old-price">${item.price.original} €</span> 
+          <span class="old-price">${originalPrice}</span> 
         </p>
       </div>
     `;

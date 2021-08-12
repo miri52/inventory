@@ -39,6 +39,10 @@ h1:before {
   background: #e88a62;
 }
 
+h3 {
+  margin-bottom: 0.5em;
+}
+
 nav {
   display: flex;
   flex-direction: column;
@@ -86,6 +90,10 @@ nav {
   margin-bottom: 1em;
   margin-top: -1em;
   z-index: 1;
+}
+
+a.disabled {
+  pointer-events: none;
 }
 
 @media (hover: hover) {
