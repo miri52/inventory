@@ -293,7 +293,7 @@
       "id": "18",
       "name": "Candeeiro de mesa",
       "link": "#",
-      "img": "images/lamp.jpg",
+      "img": "images/lamp.JPG",
       "info": "Comprado há 6 anos.",
       "dimensions": {
         "lar": 24,
@@ -310,7 +310,7 @@
       "id": "19",
       "name": "Cadeira em aço",
       "link": "#",
-      "img": "images/silver-chair.jpg",
+      "img": "images/silver-chair.JPG",
       "info": "Origem desconhecida",
       "dimensions": {
         "lar": 46,
