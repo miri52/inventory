@@ -66,7 +66,7 @@
         "original": "1 unidade: 35 ",
         "new": "1 unidade: 10 "
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "05",
@@ -134,7 +134,7 @@
         "original": 349,
         "new": 80
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "09",
@@ -202,7 +202,7 @@
         "original": 20,
         "new": 0
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "13",
@@ -219,7 +219,7 @@
         "original": 30,
         "new": 10
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "14",
@@ -253,7 +253,7 @@
         "original": 19,
         "new": 5
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "16",
@@ -287,7 +287,7 @@
         "original": 50,
         "new": 5
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "18",
