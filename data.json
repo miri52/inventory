@@ -15,7 +15,7 @@
         "original": 59,
         "new": 30
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "02",
@@ -32,7 +32,7 @@
         "original": 49,
         "new": 25
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "03",
@@ -83,7 +83,7 @@
         "original": 65,
         "new": 20
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "06",
@@ -117,7 +117,7 @@
         "original": 139,
         "new": 50
       },
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "08",
